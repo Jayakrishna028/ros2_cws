@@ -1,0 +1,6 @@
+[console_scripts]
+py_node = my_py_pkg.my_first_node:main
+py_node_opp = my_py_pkg.opp_node_first:main
+py_publisher = my_py_pkg.first_publisher:main
+py_subscriber = my_py_pkg.first_subscriber:main
+
