@@ -23,7 +23,8 @@ setup(
             "py_node = my_py_pkg.my_first_node:main",
             "py_node_opp = my_py_pkg.opp_node_first:main",
             "py_publisher = my_py_pkg.first_publisher:main",
-            "py_subscriber = my_py_pkg.first_subscriber:main"
+            "py_subscriber = my_py_pkg.first_subscriber:main",
+            "add_two_ints_server = my_py_pkg.addtwoints_service:main"
         ],
     },
 )
