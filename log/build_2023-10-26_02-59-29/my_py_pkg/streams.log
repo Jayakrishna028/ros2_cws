@@ -1,0 +1,27 @@
+[0.570s] Invoking command in '/home/ubuntu/ros2_cws/src/my_py_pkg': PYTHONPATH=/home/ubuntu/ros2_cws/build/my_py_pkg/prefix_override:/home/ubuntu/ros2_cws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/ubuntu/ros2_cws/build/my_py_pkg/build install --record /home/ubuntu/ros2_cws/build/my_py_pkg/install.log --single-version-externally-managed
+[0.714s] running egg_info
+[0.714s] writing ../../build/my_py_pkg/my_py_pkg.egg-info/PKG-INFO
+[0.715s] writing dependency_links to ../../build/my_py_pkg/my_py_pkg.egg-info/dependency_links.txt
+[0.715s] writing entry points to ../../build/my_py_pkg/my_py_pkg.egg-info/entry_points.txt
+[0.715s] writing requirements to ../../build/my_py_pkg/my_py_pkg.egg-info/requires.txt
+[0.715s] writing top-level names to ../../build/my_py_pkg/my_py_pkg.egg-info/top_level.txt
+[0.716s] reading manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[0.716s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[0.716s] running build
+[0.716s] running build_py
+[0.717s] running install
+[0.721s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.721s]   warnings.warn(
+[0.721s] running install_lib
+[0.722s] running install_data
+[0.723s] running install_egg_info
+[0.724s] removing '/home/ubuntu/ros2_cws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.724s] Copying ../../build/my_py_pkg/my_py_pkg.egg-info to /home/ubuntu/ros2_cws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info
+[0.724s] running install_scripts
+[0.740s] Installing add_two_ints_server script to /home/ubuntu/ros2_cws/install/my_py_pkg/lib/my_py_pkg
+[0.740s] Installing py_node script to /home/ubuntu/ros2_cws/install/my_py_pkg/lib/my_py_pkg
+[0.740s] Installing py_node_opp script to /home/ubuntu/ros2_cws/install/my_py_pkg/lib/my_py_pkg
+[0.740s] Installing py_publisher script to /home/ubuntu/ros2_cws/install/my_py_pkg/lib/my_py_pkg
+[0.740s] Installing py_subscriber script to /home/ubuntu/ros2_cws/install/my_py_pkg/lib/my_py_pkg
+[0.740s] writing list of installed files to '/home/ubuntu/ros2_cws/build/my_py_pkg/install.log'
+[0.757s] Invoked command in '/home/ubuntu/ros2_cws/src/my_py_pkg' returned '0': PYTHONPATH=/home/ubuntu/ros2_cws/build/my_py_pkg/prefix_override:/home/ubuntu/ros2_cws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/ubuntu/ros2_cws/build/my_py_pkg/build install --record /home/ubuntu/ros2_cws/build/my_py_pkg/install.log --single-version-externally-managed

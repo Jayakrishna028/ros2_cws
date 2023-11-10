@@ -1,0 +1,25 @@
+[16.241s] Invoking command in '/home/ubuntu/ros2_cws/src/my_py_pkg': PYTHONPATH=/home/ubuntu/ros2_cws/build/my_py_pkg/prefix_override:/home/ubuntu/ros2_cws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/ubuntu/ros2_cws/build/my_py_pkg/build install --record /home/ubuntu/ros2_cws/build/my_py_pkg/install.log --single-version-externally-managed
+[16.455s] running egg_info
+[16.456s] writing ../../build/my_py_pkg/my_py_pkg.egg-info/PKG-INFO
+[16.463s] writing dependency_links to ../../build/my_py_pkg/my_py_pkg.egg-info/dependency_links.txt
+[16.463s] writing entry points to ../../build/my_py_pkg/my_py_pkg.egg-info/entry_points.txt
+[16.463s] writing requirements to ../../build/my_py_pkg/my_py_pkg.egg-info/requires.txt
+[16.463s] writing top-level names to ../../build/my_py_pkg/my_py_pkg.egg-info/top_level.txt
+[16.465s] reading manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[16.468s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[16.468s] running build
+[16.468s] running build_py
+[16.478s] running install
+[16.478s] running install_lib
+[16.489s] running install_data
+[16.492s] running install_egg_info
+[16.493s] removing '/home/ubuntu/ros2_cws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[16.496s] Copying ../../build/my_py_pkg/my_py_pkg.egg-info to /home/ubuntu/ros2_cws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info
+[16.498s] running install_scripts
+[16.515s] Installing add_two_ints_server script to /home/ubuntu/ros2_cws/install/my_py_pkg/lib/my_py_pkg
+[16.523s] Installing py_node script to /home/ubuntu/ros2_cws/install/my_py_pkg/lib/my_py_pkg
+[16.523s] Installing py_node_opp script to /home/ubuntu/ros2_cws/install/my_py_pkg/lib/my_py_pkg
+[16.523s] Installing py_publisher script to /home/ubuntu/ros2_cws/install/my_py_pkg/lib/my_py_pkg
+[16.523s] Installing py_subscriber script to /home/ubuntu/ros2_cws/install/my_py_pkg/lib/my_py_pkg
+[16.524s] writing list of installed files to '/home/ubuntu/ros2_cws/build/my_py_pkg/install.log'
+[16.626s] Invoked command in '/home/ubuntu/ros2_cws/src/my_py_pkg' returned '0': PYTHONPATH=/home/ubuntu/ros2_cws/build/my_py_pkg/prefix_override:/home/ubuntu/ros2_cws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/ubuntu/ros2_cws/build/my_py_pkg/build install --record /home/ubuntu/ros2_cws/build/my_py_pkg/install.log --single-version-externally-managed

@@ -1,0 +1,42 @@
+[2.097s] Invoking command in '/home/ubuntu/ros2_cws/build/my_cpp_pkg': CMAKE_PREFIX_PATH=/home/ubuntu/ros2_cws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake /home/ubuntu/ros2_cws/src/my_cpp_pkg -DCMAKE_INSTALL_PREFIX=/home/ubuntu/ros2_cws/install/my_cpp_pkg
+[15.642s] -- The C compiler identification is GNU 11.4.0
+[16.586s] -- The CXX compiler identification is GNU 11.4.0
+[16.682s] -- Detecting C compiler ABI info
+[16.798s] -- Detecting C compiler ABI info - done
+[16.806s] -- Check for working C compiler: /usr/bin/cc - skipped
+[16.819s] -- Detecting C compile features
+[16.825s] -- Detecting C compile features - done
+[16.846s] -- Detecting CXX compiler ABI info
+[16.950s] -- Detecting CXX compiler ABI info - done
+[16.955s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[16.955s] -- Detecting CXX compile features
+[16.956s] -- Detecting CXX compile features - done
+[17.031s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[17.308s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[18.179s] -- Found ament_lint_auto: 0.12.8 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[18.794s] -- Added test 'lint_cmake' to check CMake code style
+[18.806s] -- Added test 'xmllint' to check XML markup files
+[18.824s] -- Configuring done
+[18.828s] -- Generating done
+[18.829s] -- Build files have been written to: /home/ubuntu/ros2_cws/build/my_cpp_pkg
+[18.834s] Invoked command in '/home/ubuntu/ros2_cws/build/my_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=/home/ubuntu/ros2_cws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake /home/ubuntu/ros2_cws/src/my_cpp_pkg -DCMAKE_INSTALL_PREFIX=/home/ubuntu/ros2_cws/install/my_cpp_pkg
+[18.835s] Invoking command in '/home/ubuntu/ros2_cws/build/my_cpp_pkg': CMAKE_PREFIX_PATH=/home/ubuntu/ros2_cws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/ros2_cws/build/my_cpp_pkg -- -j12 -l12
+[18.857s] Invoked command in '/home/ubuntu/ros2_cws/build/my_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=/home/ubuntu/ros2_cws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/ros2_cws/build/my_cpp_pkg -- -j12 -l12
+[18.878s] Invoking command in '/home/ubuntu/ros2_cws/build/my_cpp_pkg': CMAKE_PREFIX_PATH=/home/ubuntu/ros2_cws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/ros2_cws/build/my_cpp_pkg
+[18.882s] -- Install configuration: ""
+[18.882s] -- Installing: /home/ubuntu/ros2_cws/install/my_cpp_pkg/share/ament_index/resource_index/package_run_dependencies/my_cpp_pkg
+[18.882s] -- Installing: /home/ubuntu/ros2_cws/install/my_cpp_pkg/share/ament_index/resource_index/parent_prefix_path/my_cpp_pkg
+[18.883s] -- Installing: /home/ubuntu/ros2_cws/install/my_cpp_pkg/share/my_cpp_pkg/environment/ament_prefix_path.sh
+[18.883s] -- Installing: /home/ubuntu/ros2_cws/install/my_cpp_pkg/share/my_cpp_pkg/environment/ament_prefix_path.dsv
+[18.883s] -- Installing: /home/ubuntu/ros2_cws/install/my_cpp_pkg/share/my_cpp_pkg/environment/path.sh
+[18.883s] -- Installing: /home/ubuntu/ros2_cws/install/my_cpp_pkg/share/my_cpp_pkg/environment/path.dsv
+[18.883s] -- Installing: /home/ubuntu/ros2_cws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.bash
+[18.883s] -- Installing: /home/ubuntu/ros2_cws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.sh
+[18.884s] -- Installing: /home/ubuntu/ros2_cws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.zsh
+[18.884s] -- Installing: /home/ubuntu/ros2_cws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.dsv
+[18.884s] -- Installing: /home/ubuntu/ros2_cws/install/my_cpp_pkg/share/my_cpp_pkg/package.dsv
+[18.884s] -- Installing: /home/ubuntu/ros2_cws/install/my_cpp_pkg/share/ament_index/resource_index/packages/my_cpp_pkg
+[18.884s] -- Installing: /home/ubuntu/ros2_cws/install/my_cpp_pkg/share/my_cpp_pkg/cmake/my_cpp_pkgConfig.cmake
+[18.884s] -- Installing: /home/ubuntu/ros2_cws/install/my_cpp_pkg/share/my_cpp_pkg/cmake/my_cpp_pkgConfig-version.cmake
+[18.884s] -- Installing: /home/ubuntu/ros2_cws/install/my_cpp_pkg/share/my_cpp_pkg/package.xml
+[18.886s] Invoked command in '/home/ubuntu/ros2_cws/build/my_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=/home/ubuntu/ros2_cws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/ros2_cws/build/my_cpp_pkg
